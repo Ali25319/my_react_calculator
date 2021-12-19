@@ -1,0 +1,36 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  background-color: hsl(2, 87%, 36%);
+  
+
+}
+.Calc{
+  width:320px;
+  margin:100px auto;
+}
+#output{
+ background-color: rgba(26, 207, 144, 0.897);
+ padding:10px;
+ font-size:35px;
+ width:295px;
+ height:45px;
+ text-align: right;
+ border:3px solid rgba(6, 34, 27, 0.849);
+}
+.button{
+   background-color:hsla(347, 94%, 41%, 0.938);
+   height:80px;
+   width:80px;
+   color:white;
+   font-size:30px;
+   border:px solid rgb(136, 110, 110);
+   float: left;
+
+}
+.button1{
+ width:80px;
+}
+.button2{
+width:160px;
+}
